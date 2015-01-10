@@ -1,4 +1,4 @@
-# Changelog
+# ChangeLog
 
 ## 1.4.1 (2014-12-15)
 
